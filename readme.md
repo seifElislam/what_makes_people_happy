@@ -60,3 +60,10 @@ What made you happy today? Reflect on the past 24 hours, and recall three actual
         ![Alt text](screen_shots/usa_words.png?raw=true "Image 6")
         - Achievement words in Indian people moments are less common. They fouced on affection moments words like: "friend", "happiest", "moment", "feel", "family".
         ![Alt text](screen_shots/india_words.png?raw=true "Image 7")
+
+## Resources
+
+- [pandas docs](https://pandas.pydata.org/docs/user_guide/index.html)
+- [seaborn docs](https://seaborn.pydata.org/examples/index.html)
+- [kaggle notebook](https://www.kaggle.com/powderist/happydb-analysis)
+- [clean text Machine learning](https://machinelearningmastery.com/clean-text-machine-learning-python/)
